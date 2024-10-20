@@ -1,6 +1,14 @@
-# calculator
+# calculator par Seynabou BA KANE
 
 A new Flutter project.
+
+EXPLICATIONS APPLI
+
+- Réinitialisation Intelligente : À chaque changement d'opération, l'incrément est réinitialisé à 2 par défaut pour éviter les erreurs de calcul, sauf pour l'addition où l'incrément est réinitialisé à 1 si la valeur entrée est inférieure à 1.
+
+- Validation et Erreurs : L'application valide les entrées pour s'assurer que seules des valeurs numériques entières sont acceptées. En cas de tentative de division par zéro, un dialogue d'erreur est affiché.
+
+- Interface Responsive : Le nombre de clics et le résultat de l'opération sont affichés de manière dynamique, améliorant l'interaction utilisateur.
 
 ## Getting Started
 
